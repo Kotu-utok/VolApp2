@@ -25,7 +25,7 @@ namespace VolApp2.Controllers
 
         public IActionResult Privacy()
         {
-            var x = 444;
+            var x = 2;
 
 
             return View();
